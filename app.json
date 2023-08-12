@@ -15,7 +15,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.knuditto.Ditto"
     },
     "android": {
       "adaptiveIcon": {
@@ -29,7 +30,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "c87f3487-0930-4913-9a66-02fee962e474"
+        "projectId": "a96b79ed-830c-4a0c-92bc-30991dad03a1"
       }
     }
   }
