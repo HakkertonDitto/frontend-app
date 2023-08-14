@@ -2,5 +2,5 @@ import * as React from "react";
 import { WebView } from "react-native-webview";
 
 export default function App() {
-  return <WebView source={{ uri: "https://knu-ditto.netlify.app/" }} />;
+  return <WebView source={{ uri: "http://localhost:3000" }} />;
 }
