@@ -32,6 +32,11 @@
       "eas": {
         "projectId": "a96b79ed-830c-4a0c-92bc-30991dad03a1"
       }
-    }
+    },
+    "sdkVersion": "49.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ]
   }
 }
